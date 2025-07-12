@@ -23,7 +23,7 @@ pagination.pagerSize = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "I'm a Cloud FinOps Guy"
+  homeSubtitle = "I'm a cloud FinOps guy!"
 
   logoText = "hello friend ng"
   logoHomeLink = "/"
