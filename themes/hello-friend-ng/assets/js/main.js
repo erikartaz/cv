@@ -9,6 +9,7 @@ const themeToggle = document.querySelector(".theme-toggle");
 const chosenTheme = window.localStorage && window.localStorage.getItem("theme");
 const chosenThemeIsDark = chosenTheme == "dark";
 const chosenThemeIsLight = chosenTheme == "light";
+Prism.manual = true
 
 // Detect the color scheme the operating system prefers.
 function detectOSColorTheme() {

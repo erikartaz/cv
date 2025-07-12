@@ -19,30 +19,16 @@ ancora a capo. ma senza stacco
 
 Vediamo ora un po' di codice
 
-``` php
+```powershell {style=onedark}
 
-// Questo è codice di esempio
+Connect-AzAccount
 
-class Persona {
-  private $name;
-  private $age;
+$sublist= Get-AzSubscription 
+foreach ($item in $sublist){
 
-  public function __construct($name, $age) {
-    $this->name = $name;
-    $this->age = $age;
-  }
-
-  public function getName() {
-    return $this->name;
-  }   
-
-  public function getAge() {
-    return $this->age;
-  }
-
+    $scopeappend= "/subscriptions/"+$item.Id
+$export=(Get-AzRoleAssignment -RoleDefinitionId "8e3af657-a8ff-443c-a75c-2fe8c4bcb635" -Scope $tdt  | where {($_.ObjectType -EQ "user") -and ($_.Scope -EQ $scopeappend) }  ) | select DisplayName,SignInName
 }
 
-$tizio = new Persona;
-
-
+$export|Export-Csv -Path C:\test.csv
 ```

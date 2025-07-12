@@ -4,8 +4,7 @@ languageCode = "it-it"
 theme        = "hello-friend-ng"
 pagination.pagerSize     = 10
 
-PygmentsCodeFences = true
-PygmentsStyle = "monokai"
+
 
 backgroundImage = "assets/images/background.jpg"
 
@@ -34,11 +33,13 @@ backgroundImage = "assets/images/background.jpg"
   description = "My new homepage or blog"
   keywords = "homepage, blog"
   images = [""]
+  
 
 [taxonomies]
     category = "blog"
     tag      = "tags"
     series   = "series"
+
 
 
 

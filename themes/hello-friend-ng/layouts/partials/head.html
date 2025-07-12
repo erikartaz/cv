@@ -11,6 +11,8 @@
 <meta name="theme-color" content="{{ .Site.Params.themeColor }}" />
 <link rel="canonical" href="{{ .Permalink }}" />
 
+
+
 {{ block "title" . }}
     <title>
         {{ if .IsHome }}
@@ -33,6 +35,7 @@
         <link rel="stylesheet" type="text/css" href="{{ $val }}">
     {{ end }}
 {{ end }}
+
 
 <!-- Icons -->
 {{- partial "favicons.html" . }}

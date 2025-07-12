@@ -19,58 +19,34 @@
 &lt;p&gt;Adesso andiamo a capo
 ancora a capo. ma senza stacco&lt;/p&gt;
 &lt;p&gt;Vediamo ora un po&amp;rsquo; di codice&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-php&#34; data-lang=&#34;php&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// Questo è codice di esempio
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Persona&lt;/span&gt; {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;private&lt;/span&gt; $name;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;private&lt;/span&gt; $age;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#abb2bf;background-color:#282c34;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-powershell&#34; data-lang=&#34;powershell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e5c07b&#34;&gt;Connect-AzAccount&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;__construct&lt;/span&gt;($name, $age) {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    $this&lt;span style=&#34;color:#f92672&#34;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; $name;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    $this&lt;span style=&#34;color:#f92672&#34;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;age&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; $age;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e06c75&#34;&gt;$sublist&lt;/span&gt;= &lt;span style=&#34;color:#e5c07b&#34;&gt;Get-AzSubscription&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#c678dd&#34;&gt;foreach&lt;/span&gt; (&lt;span style=&#34;color:#e06c75&#34;&gt;$item&lt;/span&gt; &lt;span style=&#34;color:#c678dd&#34;&gt;in&lt;/span&gt; &lt;span style=&#34;color:#e06c75&#34;&gt;$sublist&lt;/span&gt;){
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;getName&lt;/span&gt;() {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; $this&lt;span style=&#34;color:#f92672&#34;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }   
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;getAge&lt;/span&gt;() {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; $this&lt;span style=&#34;color:#f92672&#34;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;age&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#e06c75&#34;&gt;$scopeappend&lt;/span&gt;= &lt;span style=&#34;color:#98c379&#34;&gt;&amp;#34;/subscriptions/&amp;#34;&lt;/span&gt;+&lt;span style=&#34;color:#e06c75&#34;&gt;$item&lt;/span&gt;.&lt;span style=&#34;color:#e06c75&#34;&gt;Id&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e06c75&#34;&gt;$export&lt;/span&gt;=(&lt;span style=&#34;color:#e5c07b&#34;&gt;Get-AzRoleAssignment&lt;/span&gt; &lt;span style=&#34;color:#e06c75&#34;&gt;-RoleDefinitionId&lt;/span&gt; &lt;span style=&#34;color:#98c379&#34;&gt;&amp;#34;8e3af657-a8ff-443c-a75c-2fe8c4bcb635&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#e06c75&#34;&gt;-Scope&lt;/span&gt; &lt;span style=&#34;color:#e06c75&#34;&gt;$tdt&lt;/span&gt;  | &lt;span style=&#34;color:#e5c07b&#34;&gt;where &lt;/span&gt;{(&lt;span style=&#34;color:#e06c75&#34;&gt;$_&lt;/span&gt;.&lt;span style=&#34;color:#e06c75&#34;&gt;ObjectType&lt;/span&gt; &lt;span style=&#34;color:#56b6c2&#34;&gt;-EQ&lt;/span&gt; &lt;span style=&#34;color:#98c379&#34;&gt;&amp;#34;user&amp;#34;&lt;/span&gt;) &lt;span style=&#34;color:#56b6c2&#34;&gt;-and&lt;/span&gt; (&lt;span style=&#34;color:#e06c75&#34;&gt;$_&lt;/span&gt;.&lt;span style=&#34;color:#e06c75&#34;&gt;Scope&lt;/span&gt; &lt;span style=&#34;color:#56b6c2&#34;&gt;-EQ&lt;/span&gt; &lt;span style=&#34;color:#e06c75&#34;&gt;$scopeappend&lt;/span&gt;) }  ) | &lt;span style=&#34;color:#e5c07b&#34;&gt;select &lt;/span&gt;&lt;span style=&#34;color:#e06c75&#34;&gt;DisplayName&lt;/span&gt;,&lt;span style=&#34;color:#e06c75&#34;&gt;SignInName&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$tizio &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;new&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Persona&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e06c75&#34;&gt;$export&lt;/span&gt;|&lt;span style=&#34;color:#e5c07b&#34;&gt;Export-Csv&lt;/span&gt; &lt;span style=&#34;color:#e06c75&#34;&gt;-Path&lt;/span&gt; &lt;span style=&#34;color:#e06c75&#34;&gt;C:&lt;/span&gt;\&lt;span style=&#34;color:#e06c75&#34;&gt;test&lt;/span&gt;.&lt;span style=&#34;color:#e06c75&#34;&gt;csv&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
             <content type="html"><![CDATA[<h3 id="questo-è-il-primo-post">Questo è il primo post</h3>
 <p>Vediamo cosa possiamo scrivere e sopratutto quanto sarà larga la pagina, perché questa è una parte veramente molto importante in modo da capire l&rsquo;effetto.</p>
 <p>Adesso andiamo a capo
 ancora a capo. ma senza stacco</p>
 <p>Vediamo ora un po&rsquo; di codice</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-php" data-lang="php"><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">// Questo è codice di esempio
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">Persona</span> {
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">private</span> $name;
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">private</span> $age;
+<div class="highlight"><pre tabindex="0" style="color:#abb2bf;background-color:#282c34;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powershell" data-lang="powershell"><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#e5c07b">Connect-AzAccount</span>
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">function</span> <span style="color:#a6e22e">__construct</span>($name, $age) {
-</span></span><span style="display:flex;"><span>    $this<span style="color:#f92672">-&gt;</span><span style="color:#a6e22e">name</span> <span style="color:#f92672">=</span> $name;
-</span></span><span style="display:flex;"><span>    $this<span style="color:#f92672">-&gt;</span><span style="color:#a6e22e">age</span> <span style="color:#f92672">=</span> $age;
-</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span><span style="color:#e06c75">$sublist</span>= <span style="color:#e5c07b">Get-AzSubscription</span> 
+</span></span><span style="display:flex;"><span><span style="color:#c678dd">foreach</span> (<span style="color:#e06c75">$item</span> <span style="color:#c678dd">in</span> <span style="color:#e06c75">$sublist</span>){
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">function</span> <span style="color:#a6e22e">getName</span>() {
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> $this<span style="color:#f92672">-&gt;</span><span style="color:#a6e22e">name</span>;
-</span></span><span style="display:flex;"><span>  }   
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">function</span> <span style="color:#a6e22e">getAge</span>() {
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> $this<span style="color:#f92672">-&gt;</span><span style="color:#a6e22e">age</span>;
-</span></span><span style="display:flex;"><span>  }
-</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#e06c75">$scopeappend</span>= <span style="color:#98c379">&#34;/subscriptions/&#34;</span>+<span style="color:#e06c75">$item</span>.<span style="color:#e06c75">Id</span>
+</span></span><span style="display:flex;"><span><span style="color:#e06c75">$export</span>=(<span style="color:#e5c07b">Get-AzRoleAssignment</span> <span style="color:#e06c75">-RoleDefinitionId</span> <span style="color:#98c379">&#34;8e3af657-a8ff-443c-a75c-2fe8c4bcb635&#34;</span> <span style="color:#e06c75">-Scope</span> <span style="color:#e06c75">$tdt</span>  | <span style="color:#e5c07b">where </span>{(<span style="color:#e06c75">$_</span>.<span style="color:#e06c75">ObjectType</span> <span style="color:#56b6c2">-EQ</span> <span style="color:#98c379">&#34;user&#34;</span>) <span style="color:#56b6c2">-and</span> (<span style="color:#e06c75">$_</span>.<span style="color:#e06c75">Scope</span> <span style="color:#56b6c2">-EQ</span> <span style="color:#e06c75">$scopeappend</span>) }  ) | <span style="color:#e5c07b">select </span><span style="color:#e06c75">DisplayName</span>,<span style="color:#e06c75">SignInName</span>
 </span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>$tizio <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">Persona</span>;
+</span></span><span style="display:flex;"><span><span style="color:#e06c75">$export</span>|<span style="color:#e5c07b">Export-Csv</span> <span style="color:#e06c75">-Path</span> <span style="color:#e06c75">C:</span>\<span style="color:#e06c75">test</span>.<span style="color:#e06c75">csv</span>
 </span></span></code></pre></div>]]></content>
         </item>
         
