@@ -33,7 +33,11 @@ backgroundImage = "assets/images/background.jpg"
   description = "My new homepage or blog"
   keywords = "homepage, blog"
   images = [""]
-  
+
+[markup.goldmark.renderer]
+  hardWraps = false
+  unsafe = true
+  xhtml = false  
 
 [taxonomies]
     category = "blog"
@@ -51,6 +55,6 @@ backgroundImage = "assets/images/background.jpg"
 
     # And you can even create generic menu
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
+    identifier = "cv"
+    name       = "CV"
     url        = "/pages/cv"

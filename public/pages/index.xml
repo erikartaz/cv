@@ -1,23 +1,105 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Erik Artaz</title>
-        <link>https://cv.erikartaz.work/pages/</link>
+        <link>http://localhost:14381/pages/</link>
         <description>Recent content in Pages on Erik Artaz</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>it-it</language>
-        <lastBuildDate>Sat, 12 Jul 2025 16:36:30 +0200</lastBuildDate>
-        <atom:link href="https://cv.erikartaz.work/pages/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:14381/pages/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Cv</title>
-            <link>https://cv.erikartaz.work/pages/cv/</link>
-            <pubDate>Sat, 12 Jul 2025 16:36:30 +0200</pubDate>
+            <title>Curriculum riassuntivo</title>
+            <link>http://localhost:14381/pages/cv/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             
-            <guid>https://cv.erikartaz.work/pages/cv/</guid>
-            <description>&lt;h3 id=&#34;questa-invece-è-una-pagina&#34;&gt;Questa invece è una pagina&lt;/h3&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<h3 id="questa-invece-è-una-pagina">Questa invece è una pagina</h3>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            <guid>http://localhost:14381/pages/cv/</guid>
+            <description>&lt;h3 id=&#34;contatti&#34;&gt;&lt;i class=&#34;fa-solid fa-address-card&#34;&gt;&lt;/i&gt;     &lt;strong&gt;Contatti&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Telefono: 347.9394270&lt;/p&gt;
+&lt;p&gt;Email: &lt;a href=&#34;mailto:erik.artaz@gmail.com&#34;&gt;erik.artaz@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Domicilio: Milano&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;obiettivi&#34;&gt;&lt;i class=&#34;fas fa-compress-arrows-alt&#34;&gt;&lt;/i&gt;     &lt;strong&gt;Obiettivi&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Il mio obiettivo è lavorare in una azienda che mi permetta di approfondire le mie competenze nell&amp;rsquo;amministrazione di sistemi Windows e Linux.&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;esperienze&#34;&gt;&lt;i class=&#34;fas fa-briefcase&#34;&gt;&lt;/i&gt;     &lt;strong&gt;Esperienze&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;ECIT spa&lt;/strong&gt; (1 gen 2023 - attuale)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sono consulente esterno per EssilorLuxottica e mi occupo di Cloud Governance e FinOps in ambiente Microsoft Azure. Le mie attività prevedono il controllo dei costi e la governance sui servizi forniti dai System Integrator. Inoltre mi occupo dell&amp;rsquo;approvazione delle change request infrastrutturali per le zone EMEA/APAC.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;ECIT srl&lt;/strong&gt; (gen 2022 - dic 2022)&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h3 id="contatti"><i class="fa-solid fa-address-card"></i>     <strong>Contatti</strong></h3>
+<p>Telefono: 347.9394270</p>
+<p>Email: <a href="mailto:erik.artaz@gmail.com">erik.artaz@gmail.com</a></p>
+<p>Domicilio: Milano</p>
+<br>
+<h3 id="obiettivi"><i class="fas fa-compress-arrows-alt"></i>     <strong>Obiettivi</strong></h3>
+<p>Il mio obiettivo è lavorare in una azienda che mi permetta di approfondire le mie competenze nell&rsquo;amministrazione di sistemi Windows e Linux.</p>
+<br>
+<h3 id="esperienze"><i class="fas fa-briefcase"></i>     <strong>Esperienze</strong></h3>
+<p><strong>ECIT spa</strong> (1 gen 2023 - attuale)</p>
+<ul>
+<li>Sono consulente esterno per EssilorLuxottica e mi occupo di Cloud Governance e FinOps in ambiente Microsoft Azure. Le mie attività prevedono il controllo dei costi e la governance sui servizi forniti dai System Integrator. Inoltre mi occupo dell&rsquo;approvazione delle change request infrastrutturali per le zone EMEA/APAC.</li>
+</ul>
+<p><strong>ECIT srl</strong> (gen 2022 - dic 2022)</p>
+<ul>
+<li>Mi occupo di fornire per grandi aziende attività di helpdesk classico, e con un team, attività di control room per monitorare lo stato di tutta l&rsquo;infrastruttura IT di una multinazionale italiana organizzando eventualmente war room con team internazionali per gestire situazioni di emergenza.</li>
+</ul>
+<p><strong>EUTEL 2005 srl</strong> (mag 2021 - nov 2021)</p>
+<ul>
+<li>Mi occupo come risorsa in un team di sviluppare soluzioni CRM ad uso interno con framework MVC proprietario in linguaggio PHP + HTML5/CSS3/JS lato frontend.</li>
+</ul>
+<p><strong>MM Contact Service / Convertica</strong> (set 2018 - apr 2021)</p>
+<ul>
+<li>Mi occupo di manutenzione ed aggiornamento continuo della rete e dei centralini telefonici aziendali (asterisk e xcally). Installazione e configurazione di server Linux e Windows. Assistenza alle risorse hardware e software dei 200 dipendenti. Sviluppo di CRM ad uso interno in PHP+HTML5+CSS+JS</li>
+</ul>
+<p><strong>Papà di Giulia</strong> (mag 2016 - set 2018)</p>
+<ul>
+<li>Mi sono occupato di mia figlia dai zero ai due anni e tra tutte le esperienze è forse quella che mi ha insegnato più cose sull&rsquo;importanza dei rapporti umani e capacità di negoziazione</li>
+</ul>
+<p><strong>Consulente formazione</strong> (gen 2016 - set 2018)</p>
+<ul>
+<li>Mi occupo di formazione informatica, prevalentemente  in campo Microsoft Office. Organizzo corsi di informatica e avvicinamento al coding per adolescenti ed adulti utilizzando Python</li>
+</ul>
+<p><strong>+39 LAB</strong> (gen 2010 - lug 2016)</p>
+<ul>
+<li>+39LAB si occupa di aiutare professionisti e piccole imprese a crescere in rete e grazie alla rete. Sviluppo siti web e curo le pagine social dei clienti oltre a pianificare piccole campagne pubblicitarie sulle piattaforme di Google e Facebook</li>
+</ul>
+<p><strong>Debug system</strong> (gen 1998 - dic 2009)</p>
+<ul>
+<li>Piccola attività rivolta a professionisti e piccole imprese. Si occupava di creare reti informatiche aziendali e della gestione del parco hardware e software con soluzioni chiavi in mano.</li>
+</ul>
+<br>
+<h3 id="soft-skills"><i class="fas fa-paint-brush"></i>     <strong>Soft skills</strong></h3>
+<ul>
+<li>Curiosità</li>
+<li>Buona dialettica</li>
+<li>Autonomia</li>
+<li>Studio ed aggiornamento continui</li>
+</ul>
+<br>
+<h3 id="lingue-conosciute"><i class="fas fa-language"></i>     <strong>Lingue conosciute</strong></h3>
+<ul>
+<li>Italiano   *****</li>
+<li>Francese   ****</li>
+<li>Spagnolo   ****</li>
+<li>Inglese   ***</li>
+</ul>
+<br>
+<h3 id="istruzione"><i class="fas fa-graduation-cap"></i>     <strong>Istruzione</strong></h3>
+<p><strong>Istituto tecnico industriale</strong>: 58/60 | Diploma in meccanica e disegno tecnico industriale</p>
+<p><strong>Politecnico di Torino</strong>: Ingegneria informatica | Interruzione degli studi dopo due anni passati con profitto</p>
+<br>
+<h3 id="corsi-frequentati"><i class="fas fa-book-reader"></i>     <strong>Corsi frequentati</strong></h3>
+<p><strong>Art director</strong> (tecnologie grafiche per il web)</p>
+<p>Corso propedeutico allo sviluppo di competenze grafiche nel mondo digitale</p>
+<p><strong>Program for everyone in Python</strong> (Michigan University)</p>
+<p>Corso di sviluppo in linguaggio Python</p>
+<p><strong>The data scientist&rsquo;s toolbox</strong> (Microsoft)</p>
+<p>Corso Microsoft per ottimizzare l&rsquo;analisi dei dati con python ed Excel</p>
+<br>
+<h3 id="referenze"><i class="fas fa-user-shield"></i>     <strong>Referenze</strong></h3>
+<p><strong>Stefania Uggè</strong>: HR manager | 02.3465743 | <a href="mailto:stefania.ugge@convertica-sas.com">stefania.ugge@convertica-sas.com</a></p>
+<p><strong>Cristian Pibia</strong>: Head of development | 011.3454475 | <a href="mailto:cristian.pibia@eutel2005.com">cristian.pibia@eutel2005.com</a></p>
 ]]></content>
         </item>
         
