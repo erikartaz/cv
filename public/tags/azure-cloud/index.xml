@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure, Cloud on Erik Artaz</title>
+    <link>//localhost:3804/tags/azure-cloud/</link>
+    <description>Recent content in Azure, Cloud on Erik Artaz</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Sat, 12 Jul 2025 15:55:23 +0200</lastBuildDate>
+    <atom:link href="//localhost:3804/tags/azure-cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Azure Journey</title>
+      <link>//localhost:3804/posts/an-azure-journey/</link>
+      <pubDate>Sat, 12 Jul 2025 15:55:23 +0200</pubDate>
+      <guid>//localhost:3804/posts/an-azure-journey/</guid>
+      <description>&lt;h3 id=&#34;questo-è-il-primo-post&#34;&gt;Questo è il primo post&lt;/h3&gt;&#xA;&lt;p&gt;Vediamo cosa possiamo scrivere e sopratutto quanto sarà larga la pagina, perché questa è una parte veramente molto importante in modo da capire l&amp;rsquo;effetto.&lt;/p&gt;&#xA;&lt;p&gt;Adesso andiamo a capo&#xA;ancora a capo. ma senza stacco&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
