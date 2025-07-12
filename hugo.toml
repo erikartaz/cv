@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://cv.erikartaz.work/"
 title        = "Erik Artaz"
 languageCode = "it-it"
 theme        = "hello-friend-ng"

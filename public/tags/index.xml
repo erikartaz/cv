@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Erik Artaz</title>
-    <link>localhost/tags/</link>
+    <link>https://cv.erikartaz.work/tags/</link>
     <description>Recent content in Tags on Erik Artaz</description>
     <generator>Hugo</generator>
     <language>it-it</language>
     <lastBuildDate>Sat, 12 Jul 2025 15:55:23 +0200</lastBuildDate>
-    <atom:link href="localhost/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cv.erikartaz.work/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure</title>
-      <link>localhost/tags/azure/</link>
+      <link>https://cv.erikartaz.work/tags/azure/</link>
       <pubDate>Sat, 12 Jul 2025 15:55:23 +0200</pubDate>
-      <guid>localhost/tags/azure/</guid>
+      <guid>https://cv.erikartaz.work/tags/azure/</guid>
       <description></description>
     </item>
     <item>
       <title>Blog</title>
-      <link>localhost/tags/blog/</link>
+      <link>https://cv.erikartaz.work/tags/blog/</link>
       <pubDate>Sat, 12 Jul 2025 15:55:23 +0200</pubDate>
-      <guid>localhost/tags/blog/</guid>
+      <guid>https://cv.erikartaz.work/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Cloud</title>
-      <link>localhost/tags/cloud/</link>
+      <link>https://cv.erikartaz.work/tags/cloud/</link>
       <pubDate>Sat, 12 Jul 2025 15:55:23 +0200</pubDate>
-      <guid>localhost/tags/cloud/</guid>
+      <guid>https://cv.erikartaz.work/tags/cloud/</guid>
       <description></description>
     </item>
   </channel>

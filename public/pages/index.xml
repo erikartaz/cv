@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Erik Artaz</title>
-        <link>localhost/pages/</link>
+        <link>https://cv.erikartaz.work/pages/</link>
         <description>Recent content in Pages on Erik Artaz</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>it-it</language>
         <lastBuildDate>Sat, 12 Jul 2025 16:36:30 +0200</lastBuildDate>
-        <atom:link href="localhost/pages/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://cv.erikartaz.work/pages/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Cv</title>
-            <link>localhost/pages/cv/</link>
+            <link>https://cv.erikartaz.work/pages/cv/</link>
             <pubDate>Sat, 12 Jul 2025 16:36:30 +0200</pubDate>
             
-            <guid>localhost/pages/cv/</guid>
+            <guid>https://cv.erikartaz.work/pages/cv/</guid>
             <description>&lt;h3 id=&#34;questa-invece-è-una-pagina&#34;&gt;Questa invece è una pagina&lt;/h3&gt;
 &lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<h3 id="questa-invece-è-una-pagina">Questa invece è una pagina</h3>
