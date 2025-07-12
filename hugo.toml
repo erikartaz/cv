@@ -1,12 +1,20 @@
 baseurl      = "https://cv.erikartaz.work/"
 title        = "Erik Artaz"
-languageCode = "it-it"
+languageCode = "it-IT"
 theme        = "hello-friend-ng"
-pagination.pagerSize     = 10
+pagination.pagerSize = 10
 
+[module]
+  [[module.mounts]]
+    disableWatch = false
+    lang = ''
+    source = 'assets'
+    target = 'assets'
 
-
-backgroundImage = "assets/images/background.jpg"
+[params.portrait]
+  path     = "/assets/images/portrait.jpg"
+  alt      = "Portrait"
+  maxWidth = "250px"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -15,7 +23,7 @@ backgroundImage = "assets/images/background.jpg"
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "La tana del bianconiglio"
+  homeSubtitle = "I'm a Cloud FinOps Guy"
 
   logoText = "hello friend ng"
   logoHomeLink = "/"
@@ -34,10 +42,15 @@ backgroundImage = "assets/images/background.jpg"
   keywords = "homepage, blog"
   images = [""]
 
+  backgroundImage = "assets/images/background.jpg"
+  enableThemeToggle = false
+
+
 [markup.goldmark.renderer]
   hardWraps = false
   unsafe = true
   xhtml = false  
+
 
 [taxonomies]
     category = "blog"
@@ -45,16 +58,12 @@ backgroundImage = "assets/images/background.jpg"
     series   = "series"
 
 
+[[menu.main]]
+  identifier = "blog"
+  name       = "Blog"
+  url        = "/posts"
 
-
-  # And you can even create generic menu
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
-
-    # And you can even create generic menu
-  [[menu.main]]
-    identifier = "cv"
-    name       = "CV"
-    url        = "/pages/cv"
+[[menu.main]]
+  identifier = "cv"
+  name       = "CV"
+  url        = "/pages/cv"
