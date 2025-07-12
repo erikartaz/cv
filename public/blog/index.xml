@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Erik Artaz</title>
-    <link>http://localhost:14381/blog/</link>
+    <link>https://cv.erikartaz.work/blog/</link>
     <description>Recent content in Blog on Erik Artaz</description>
     <generator>Hugo</generator>
     <language>it-it</language>
-    <atom:link href="http://localhost:14381/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cv.erikartaz.work/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
