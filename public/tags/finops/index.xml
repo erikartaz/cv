@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Erik Artaz</title>
-    <link>https://cv.erikartaz.work/tags/blog/</link>
-    <description>Recent content in Blog on Erik Artaz</description>
+    <title>FinOps on Erik Artaz</title>
+    <link>https://cv.erikartaz.work/tags/finops/</link>
+    <description>Recent content in FinOps on Erik Artaz</description>
     <generator>Hugo</generator>
     <language>it-IT</language>
     <lastBuildDate>Sat, 12 Jul 2025 15:55:23 +0200</lastBuildDate>
-    <atom:link href="https://cv.erikartaz.work/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cv.erikartaz.work/tags/finops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Day in the Life of an Azure FinOps Practitioner</title>
       <link>https://cv.erikartaz.work/posts/an-azure-journey/</link>
