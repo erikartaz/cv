@@ -64,6 +64,11 @@ pagination.pagerSize = 10
   url        = "/posts"
 
 [[menu.main]]
-  identifier = "cv"
-  name       = "CV"
+  identifier = "cvit"
+  name       = "CV it"
   url        = "/pages/cv"
+
+[[menu.main]]
+identifier = "cven"
+name       = "CV en"
+url        = "/pages/cven"

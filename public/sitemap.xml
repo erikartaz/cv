@@ -2,28 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cv.erikartaz.work/tags/blog/</loc>
+    <lastmod>2025-07-13T14:12:35+02:00</lastmod>
+  </url><url>
+    <loc>https://cv.erikartaz.work/tags/environment/</loc>
+    <lastmod>2025-07-13T14:12:35+02:00</lastmod>
+  </url><url>
+    <loc>https://cv.erikartaz.work/</loc>
+    <lastmod>2025-07-13T14:12:35+02:00</lastmod>
+  </url><url>
+    <loc>https://cv.erikartaz.work/posts/</loc>
+    <lastmod>2025-07-13T14:12:35+02:00</lastmod>
+  </url><url>
+    <loc>https://cv.erikartaz.work/tags/</loc>
+    <lastmod>2025-07-13T14:12:35+02:00</lastmod>
+  </url><url>
+    <loc>https://cv.erikartaz.work/posts/only-digital-cv/</loc>
+    <lastmod>2025-07-13T14:12:35+02:00</lastmod>
+  </url><url>
     <loc>https://cv.erikartaz.work/posts/an-azure-journey/</loc>
     <lastmod>2025-07-12T15:55:23+02:00</lastmod>
   </url><url>
     <loc>https://cv.erikartaz.work/tags/azure/</loc>
     <lastmod>2025-07-12T15:55:23+02:00</lastmod>
   </url><url>
-    <loc>https://cv.erikartaz.work/tags/blog/</loc>
-    <lastmod>2025-07-12T15:55:23+02:00</lastmod>
-  </url><url>
     <loc>https://cv.erikartaz.work/tags/cloud/</loc>
     <lastmod>2025-07-12T15:55:23+02:00</lastmod>
   </url><url>
-    <loc>https://cv.erikartaz.work/</loc>
-    <lastmod>2025-07-12T15:55:23+02:00</lastmod>
-  </url><url>
     <loc>https://cv.erikartaz.work/tags/finops/</loc>
-    <lastmod>2025-07-12T15:55:23+02:00</lastmod>
-  </url><url>
-    <loc>https://cv.erikartaz.work/posts/</loc>
-    <lastmod>2025-07-12T15:55:23+02:00</lastmod>
-  </url><url>
-    <loc>https://cv.erikartaz.work/tags/</loc>
     <lastmod>2025-07-12T15:55:23+02:00</lastmod>
   </url><url>
     <loc>https://cv.erikartaz.work/blog/</loc>

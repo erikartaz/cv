@@ -6,8 +6,15 @@
     <description>Recent content on Erik Artaz</description>
     <generator>Hugo</generator>
     <language>it-IT</language>
-    <lastBuildDate>Sat, 12 Jul 2025 15:55:23 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 14:12:35 +0200</lastBuildDate>
     <atom:link href="https://cv.erikartaz.work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Don’t Print My CV (And Why You Probably Shouldn’t Either)</title>
+      <link>https://cv.erikartaz.work/posts/only-digital-cv/</link>
+      <pubDate>Sun, 13 Jul 2025 14:12:35 +0200</pubDate>
+      <guid>https://cv.erikartaz.work/posts/only-digital-cv/</guid>
+      <description>&lt;p&gt;In a digital world that moves fast, handing out printed CVs can feel a bit&amp;hellip; dated. That’s why I’ve made a conscious decision to keep my CV only on my dedicated website.&lt;/p&gt;&#xA;&lt;p&gt;Why?&lt;/p&gt;&#xA;&lt;p&gt;Because a printed CV is static - it can’t reflect new projects, evolving responsibilities, or recent certifications. My online CV, on the other hand, is always current, easy to access, and better reflects my professional journey in real time.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A Day in the Life of an Azure FinOps Practitioner</title>
       <link>https://cv.erikartaz.work/posts/an-azure-journey/</link>
@@ -16,11 +23,11 @@
       <description>&lt;p&gt;Every day in Azure FinOps feels like navigating a massive, ever-evolving financial control tower in the cloud. My mornings usually start with dashboards—lots of dashboards. I check daily cost trends, unusual spikes, and usage anomalies across subscriptions and resource groups. It&amp;rsquo;s like being a financial detective with access to telemetry and APIs.&lt;/p&gt;&#xA;&lt;p&gt;Next comes tagging hygiene and resource governance. Are our cost allocation tags consistent? Have new untagged resources appeared overnight? If yes, it&amp;rsquo;s time to engage with resource owners or automate fixes. Clean data is the foundation of good decisions.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Curriculum riassuntivo</title>
+      <title>curriculum vitae</title>
       <link>https://cv.erikartaz.work/pages/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cv.erikartaz.work/pages/cv/</guid>
-      <description>&lt;h3 id=&#34;contatti&#34;&gt;&lt;i class=&#34;fa-solid fa-address-card&#34;&gt;&lt;/i&gt;     &lt;strong&gt;Contatti&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Telefono: 347.9394270&lt;/p&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:erik.artaz@gmail.com&#34;&gt;erik.artaz@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Domicilio: Milano&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;h3 id=&#34;obiettivi&#34;&gt;&lt;i class=&#34;fas fa-compress-arrows-alt&#34;&gt;&lt;/i&gt;     &lt;strong&gt;Obiettivi&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Il mio obiettivo è lavorare in una azienda che mi permetta di approfondire le mie competenze nell&amp;rsquo;amministrazione di sistemi Windows e Linux.&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;h3 id=&#34;esperienze&#34;&gt;&lt;i class=&#34;fas fa-briefcase&#34;&gt;&lt;/i&gt;     &lt;strong&gt;Esperienze&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;ECIT spa&lt;/strong&gt; (1 gen 2023 - attuale)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sono consulente esterno per EssilorLuxottica e mi occupo di Cloud Governance e FinOps in ambiente Microsoft Azure. Le mie attività prevedono il controllo dei costi e la governance sui servizi forniti dai System Integrator. Inoltre mi occupo dell&amp;rsquo;approvazione delle change request infrastrutturali per le zone EMEA/APAC.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;ECIT srl&lt;/strong&gt; (gen 2022 - dic 2022)&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;contatti&#34;&gt;&lt;i class=&#34;fa-solid fa-address-card&#34;&gt;&lt;/i&gt;     &lt;strong&gt;Contatti&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Telefono: 347.9394270&lt;/p&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:erik.artaz@gmail.com&#34;&gt;erik.artaz@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Domicilio: Milano&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;h3 id=&#34;obiettivi&#34;&gt;&lt;i class=&#34;fas fa-compress-arrows-alt&#34;&gt;&lt;/i&gt;     &lt;strong&gt;Obiettivi&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;l mio obiettivo è collaborare con realtà che vogliano investire nella cultura FinOps, un tema cruciale in un mondo IT sempre più orientato al cloud. Intendo continuare a crescere in questo ambito, facendo leva su una solida esperienza nell’infrastruttura IT e nella gestione di ambienti Windows e Linux.&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;h3 id=&#34;esperienze&#34;&gt;&lt;i class=&#34;fas fa-briefcase&#34;&gt;&lt;/i&gt;     &lt;strong&gt;Esperienze&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;ECIT spa&lt;/strong&gt; (1 gen 2023 - attuale)&#xA;&lt;em&gt;Cloud Governance &amp;amp; FinOps Consultant for EssilorLuxottica&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

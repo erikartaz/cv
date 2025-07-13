@@ -6,20 +6,27 @@
     <description>Recent content in Tags on Erik Artaz</description>
     <generator>Hugo</generator>
     <language>it-IT</language>
-    <lastBuildDate>Sat, 12 Jul 2025 15:55:23 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 14:12:35 +0200</lastBuildDate>
     <atom:link href="https://cv.erikartaz.work/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://cv.erikartaz.work/tags/blog/</link>
+      <pubDate>Sun, 13 Jul 2025 14:12:35 +0200</pubDate>
+      <guid>https://cv.erikartaz.work/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Environment</title>
+      <link>https://cv.erikartaz.work/tags/environment/</link>
+      <pubDate>Sun, 13 Jul 2025 14:12:35 +0200</pubDate>
+      <guid>https://cv.erikartaz.work/tags/environment/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Azure</title>
       <link>https://cv.erikartaz.work/tags/azure/</link>
       <pubDate>Sat, 12 Jul 2025 15:55:23 +0200</pubDate>
       <guid>https://cv.erikartaz.work/tags/azure/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blog</title>
-      <link>https://cv.erikartaz.work/tags/blog/</link>
-      <pubDate>Sat, 12 Jul 2025 15:55:23 +0200</pubDate>
-      <guid>https://cv.erikartaz.work/tags/blog/</guid>
       <description></description>
     </item>
     <item>

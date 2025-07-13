@@ -5,8 +5,25 @@
         <description>Recent content in Posts on Erik Artaz</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>it-IT</language>
-        <lastBuildDate>Sat, 12 Jul 2025 15:55:23 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jul 2025 14:12:35 +0200</lastBuildDate>
         <atom:link href="https://cv.erikartaz.work/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Why I Don’t Print My CV (And Why You Probably Shouldn’t Either)</title>
+            <link>https://cv.erikartaz.work/posts/only-digital-cv/</link>
+            <pubDate>Sun, 13 Jul 2025 14:12:35 +0200</pubDate>
+            
+            <guid>https://cv.erikartaz.work/posts/only-digital-cv/</guid>
+            <description>&lt;p&gt;In a digital world that moves fast, handing out printed CVs can feel a bit&amp;hellip; dated. That’s why I’ve made a conscious decision to keep my CV only on my dedicated website.&lt;/p&gt;
+&lt;p&gt;Why?&lt;/p&gt;
+&lt;p&gt;Because a printed CV is static - it can’t reflect new projects, evolving responsibilities, or recent certifications. My online CV, on the other hand, is always current, easy to access, and better reflects my professional journey in real time.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>In a digital world that moves fast, handing out printed CVs can feel a bit&hellip; dated. That’s why I’ve made a conscious decision to keep my CV only on my dedicated website.</p>
+<p>Why?</p>
+<p>Because a printed CV is static - it can’t reflect new projects, evolving responsibilities, or recent certifications. My online CV, on the other hand, is always current, easy to access, and better reflects my professional journey in real time.</p>
+<p>Also, let’s be honest: sustainability matters. Every printed page counts.</p>
+<p>Of course, if you really need a paper version (maybe you&rsquo;re stuck in a Wi-Fi-free zone), you can always download the latest PDF copy directly from my site. Just know the digital version is where the real story lives.</p>
+]]></content>
+        </item>
         
         <item>
             <title>A Day in the Life of an Azure FinOps Practitioner</title>
